@@ -1,0 +1,11 @@
+source,target,type,weight
+tt0098844,tt0203259,Undirected,399
+tt0320037,tt0379623,Undirected,429
+tt0437729,tt0103569,Undirected,460
+tt0320037,tt0106052,Undirected,462
+tt0320037,tt0106053,Undirected,506
+tt0106052,tt0106053,Undirected,512
+tt0379623,tt0103569,Undirected,556
+tt0320037,tt0103569,Undirected,722
+tt0103569,tt0106053,Undirected,786
+tt0103569,tt0106052,Undirected,799
